@@ -1,0 +1,42 @@
+# .gitignore untuk DES-RSA Encrypted Communication Project
+
+# Executable files
+*.exe
+*.out
+server
+client
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.idea/
+*.user
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Debug files
+*.dSYM/
+*.pdb
+*.ilk
